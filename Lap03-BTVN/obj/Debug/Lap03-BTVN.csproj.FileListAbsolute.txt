@@ -1,0 +1,10 @@
+C:\Users\Phat\source\repos\Lap03-BTVN\bin\Debug\Lap03-BTVN.exe.config
+C:\Users\Phat\source\repos\Lap03-BTVN\bin\Debug\Lap03-BTVN.exe
+C:\Users\Phat\source\repos\Lap03-BTVN\bin\Debug\Lap03-BTVN.pdb
+C:\Users\Phat\source\repos\Lap03-BTVN\obj\Debug\Lap03-BTVN.csproj.AssemblyReference.cache
+C:\Users\Phat\source\repos\Lap03-BTVN\obj\Debug\Lap03_BTVN.Form1.resources
+C:\Users\Phat\source\repos\Lap03-BTVN\obj\Debug\Lap03_BTVN.Properties.Resources.resources
+C:\Users\Phat\source\repos\Lap03-BTVN\obj\Debug\Lap03-BTVN.csproj.GenerateResource.cache
+C:\Users\Phat\source\repos\Lap03-BTVN\obj\Debug\Lap03-BTVN.csproj.CoreCompileInputs.cache
+C:\Users\Phat\source\repos\Lap03-BTVN\obj\Debug\Lap03-BTVN.exe
+C:\Users\Phat\source\repos\Lap03-BTVN\obj\Debug\Lap03-BTVN.pdb

@@ -1,0 +1,10 @@
+C:\Users\Phat\source\repos\Lap04\bin\Debug\Lap04.exe.config
+C:\Users\Phat\source\repos\Lap04\bin\Debug\Lap04.exe
+C:\Users\Phat\source\repos\Lap04\bin\Debug\Lap04.pdb
+C:\Users\Phat\source\repos\Lap04\obj\Debug\Lap04.csproj.AssemblyReference.cache
+C:\Users\Phat\source\repos\Lap04\obj\Debug\Lap04.lap4.resources
+C:\Users\Phat\source\repos\Lap04\obj\Debug\Lap04.Properties.Resources.resources
+C:\Users\Phat\source\repos\Lap04\obj\Debug\Lap04.csproj.GenerateResource.cache
+C:\Users\Phat\source\repos\Lap04\obj\Debug\Lap04.csproj.CoreCompileInputs.cache
+C:\Users\Phat\source\repos\Lap04\obj\Debug\Lap04.exe
+C:\Users\Phat\source\repos\Lap04\obj\Debug\Lap04.pdb

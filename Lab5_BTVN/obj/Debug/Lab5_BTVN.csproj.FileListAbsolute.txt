@@ -1,0 +1,15 @@
+C:\Users\Phat\source\repos\Lab5_BTVN\bin\Debug\Lab5_BTVN.exe.config
+C:\Users\Phat\source\repos\Lab5_BTVN\bin\Debug\Lab5_BTVN.exe
+C:\Users\Phat\source\repos\Lab5_BTVN\bin\Debug\Lab5_BTVN.pdb
+C:\Users\Phat\source\repos\Lab5_BTVN\bin\Debug\EntityFramework.dll
+C:\Users\Phat\source\repos\Lab5_BTVN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phat\source\repos\Lab5_BTVN\bin\Debug\EntityFramework.xml
+C:\Users\Phat\source\repos\Lab5_BTVN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.csproj.AssemblyReference.cache
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.Form1.resources
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.Properties.Resources.resources
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.csproj.GenerateResource.cache
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.csproj.CoreCompileInputs.cache
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.csproj.Up2Date
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.exe
+C:\Users\Phat\source\repos\Lab5_BTVN\obj\Debug\Lab5_BTVN.pdb

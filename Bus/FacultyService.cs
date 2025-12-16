@@ -1,0 +1,51 @@
+﻿using Dal;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity.Migrations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Bus
+{
+    public class FacultyService
+    {
+        public List<Faculty> GetAll()
+        {
+            using (StudentModel context = new StudentModel())
+            {
+                return context.Faculties.ToList();
+            }
+        }
+
+        public Faculty FindById(int facultyID)
+        {
+            using (StudentModel context = new StudentModel())
+            {
+                return context.Faculties.FirstOrDefault(p => p.FacultyID == facultyID);
+            }
+        }
+
+        public void InsertUpdate(Faculty f)
+        {
+            using (StudentModel context = new StudentModel())
+            {
+                context.Faculties.AddOrUpdate(f);
+                context.SaveChanges();
+            }
+        }
+
+        public void Delete(int facultyID)
+        {
+            using (StudentModel context = new StudentModel())
+            {
+                var faculty = context.Faculties.FirstOrDefault(p => p.FacultyID == facultyID);
+                if (faculty != null)
+                {
+                    context.Faculties.Remove(faculty);
+                    context.SaveChanges();
+                }
+            }
+        }
+    }
+}
